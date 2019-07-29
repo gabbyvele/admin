@@ -1,0 +1,3 @@
+<?php
+	$mysqli = new mysqli("localhost:3306","kmeelczh_kmeelit","kmeelite1","kmeelczh_kmeelitedb","3306");
+?>
